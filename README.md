@@ -1,12 +1,12 @@
 <h1 align="center">Hi👋, I'm Matheus</h1>
 
-- 🔭 I'm currently working as **analista de dados**
+- 🔭 I'm currently working as **Data Analyst**
 
 - 📄 You can find out more about my experiences on **www.linkedin.com/in/matheusdom**
 
-- 🌱 I'm learning **python e machine learning**
+- 🌱 I'm learning **Python and Machine Learning**
 
-- 💬 Ask me about **Power BI e Excel**
+- 💬 Ask me about **Power BI and Excel**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
