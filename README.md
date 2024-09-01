@@ -4,9 +4,7 @@
 
 - 📄 You can find out more about my experiences on **www.linkedin.com/in/matheusdom**
 
-- 🌱 I'm learning **Python and Machine Learning**
-
-- 💬 Ask me about **Power BI and Excel**
+- 🚀 I'm learning **Python and Machine Learning** to become a **Data Scientist**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -16,9 +14,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
-  <a href="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQLite.svg" target="_blank" rel="noreferrer"> 
+  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
     <img src="https://github.com/gui-bus/TechIcons/raw/main/Dark/SQLite.svg" alt="sql" width="40" height="40"/> 
   </a> 
 </p>
